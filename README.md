@@ -1,1 +1,1 @@
-# Optical-Character-Recognition-using-CNN
+# Optical-Character-Recognition-using-LSTM model
